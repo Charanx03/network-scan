@@ -31,7 +31,7 @@ TCP SYN Scan (Stealth Scan)
 - DNS port (53) is open on the gateway 192.168.145.45.
 - No unexpected open ports detected.
 
-  ![Screenshot 2025-05-26 111109](https://github.com/user-attachments/assets/60a414b6-830f-4654-8998-35e6c2002bb8)
+ ![Screenshot 2025-05-26 111109](https://github.com/user-attachments/assets/1b66939a-0c9f-4eee-989d-68dcfd6200d6)
 
 
 

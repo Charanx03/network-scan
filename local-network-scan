@@ -29,3 +29,5 @@ TCP SYN Scan (Stealth Scan)
 - Common Windows ports are open on my own machine.
 - DNS port (53) is open on the gateway 192.168.145.45.
 - No unexpected open ports detected.
+
+

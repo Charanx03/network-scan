@@ -1,13 +1,13 @@
-#  Network Scan ( Task 1)
+# 🔍 Network Scan ( Task 1)
 
-## Objective
+## 🎯 Objective
 Discover and analyze open ports in the local network using Nmap and Wireshark.
 
-## Contents
+## 📁 Contents
 - Nmap scan and results
 - Wireshark packet capture
 
-## Tools
+## 🧰 Tools
 - Nmap
 - Wireshark
 
